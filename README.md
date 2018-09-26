@@ -1,6 +1,8 @@
 # M2 One Product Redirect Module
 IMPORTANT: This module requires for its operation "M2 Base module" (https://github.com/olivertar/m2_base_module)
 
+IMPORTANT 2: The code of this module has been tested in Magento 2.2.5 version
+
 This simple module allows that if in a category page there is only one product in the list, the user is automatically redirected to the detail page of that product.
 
 It is possible to disable the operation of this module from the backend.
@@ -15,6 +17,8 @@ If you have used this module consider the possibility of making a donation
 -----------------------
 
 IMPORTANTE: Para su funcionamiento este modulo requiere "M2 Base module" (https://github.com/olivertar/m2_base_module)
+
+IMPORTANTE 2: Elñ codigo de este modulo ha sido probado en Magento 2.2.5
 
 Este simple modulo permite que si solo hay un producto en una pagina de categoria, el usuario sea redirigido automaticamente a la pagina de detalle de ese producto.
 
